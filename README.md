@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en una app web: [Sistema Estatal de Ingresos](https://sistemaingresos.durango.gob.mx/)
 
-- 🌱 Actualmente me encuentro aprendiendo **Node, Nest, GraphQL**
+- 🌱 Actualmente me encuentro aprendiendo **React, Nest, GraphQL**
 
 - 👯 Proyectos en los que he colaborado [SIER and API Durango Digital](https://entregarecepcion.durango.gob.mx/login, https://durangodigital.gob.mx/)
 
